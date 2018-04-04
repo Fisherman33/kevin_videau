@@ -1,0 +1,19 @@
+.component-header {
+background-color: pink;
+  position: relative;
+  font-weight: normal;
+  font-size: 85px;
+  font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; 
+  text-align: center;
+  color: #333;
+}
+.navbar {
+  margin: 0px;
+}
+.component-header[data-time="night"] {
+  color: red;
+}
+.menu[data-time="night"] {
+  background-color: red;
+  font-size: 620px;
+}

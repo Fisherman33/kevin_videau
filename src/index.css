@@ -1,0 +1,26 @@
+/*- Typograpy and resets -*/
+html {
+
+width: 100%;
+}
+
+body {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+width: 100%;
+  /*background: linear-gradient(45deg, #224400, #002233); */
+    font-size: 18px;
+}
+/*body {
+  background-image: url(http://c8.alamy.com/comp/DDMMX0/abstract-optic-effect-colorful-triangle-seamless-pattern-background-DDMMX0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attach: fixed;
+  animation: animate-bg 50s infinite linear;
+}
+
+@keyframes animate-bg {
+  from { background-size: 100%; background-position: 0% 0%; }
+  50% { background-size: 120%; background-position: 0% 20% }
+  to { background-size: 100%; background-position: 0% 0%; }
+}*/
